@@ -1,0 +1,9 @@
+*.o
+*~
+*.x
+PionCorr/*
+docu/*
+input/conf*
+output/correlator/corr*
+output/propagator/prop*
+output/propagator/source*
